@@ -2,8 +2,6 @@
 
 ---
 Author: Zhengxiao Wu  
-QMUL Number: 200978936  
-BUPT Number: 2020213235  
 
 ---
 
